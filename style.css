@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+#div2, #div4, #div6
+{
+    background: gray;
+    color: red;
+    padding: 50px;
+}
+
+#div1, #div3, #div5, #div7
+{
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+p
+{
+    font-family: "Viaoda Libre", serif;
+    background-color: #00000070;
+    width: 50%;
+    margin: auto;
+}
+
+div
+{
+    text-align: center;
+    padding: 50px;
+}
+
+#div1
+{
+    background-image: url("./img/pexels-binyaminmellish-106399.jpg");
+}
+
+#div3
+{
+    background-image: url("./img/pexels-binyaminmellish-1396122.jpg");
+}
+
+#div5
+{
+    background-image: url("./img/pexels-binyaminmellish-186077.jpg");
+}
+
+#div7
+{
+    background-image: url("./img/pexels-thgusstavo-2102587.jpg");
+}
